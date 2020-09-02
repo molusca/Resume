@@ -1,0 +1,13 @@
+.certificates-list p a {
+    color: #0ea36a!important;
+}
+
+.certificates-list li {
+    color: #0ea36a!important;
+    font-size: 1rem;
+    margin-bottom: .75rem;
+}
+
+.certificates-list li a {
+    color: #f5f6fa!important;
+}

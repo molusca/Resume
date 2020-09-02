@@ -1,0 +1,14 @@
+.welcome-image {
+    background: url(../../img/arte/notebook-dark.jpg);
+    background-position: 0 100%;
+    background-size: cover;
+    height: 80vh;
+    opacity: 55%;
+    filter: blur(6px);
+}
+
+@media screen and (min-width: 995px){
+    .welcome-image {
+        height: 100vh;
+    }
+}

@@ -1,0 +1,13 @@
+.about-me__avatar-img {
+    border-radius:50%; 
+    object-fit:cover; 
+    object-position: 0 60%;
+    border: 3px solid #0ea36a;
+}
+
+@media screen and (max-width: 980px) {
+    .about-me__avatar-img {
+        width: 240px; 
+        height: 240px; 
+    }
+}

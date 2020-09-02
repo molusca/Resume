@@ -1,0 +1,5 @@
+@media screen and (min-width: 1200px) {
+    .certificates-full-card {
+        max-width: 95%!important;
+    }
+}

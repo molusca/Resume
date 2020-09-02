@@ -1,0 +1,12 @@
+.flex-avatar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 6rem!important;
+}
+
+@media (min-width: 1200px) {
+    .flex-avatar {
+        margin-bottom: 0!important;
+    }
+}

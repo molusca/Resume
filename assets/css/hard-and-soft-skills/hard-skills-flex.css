@@ -1,0 +1,9 @@
+.hard-skills__flex {
+    padding: 3rem 0;
+}
+
+@media (min-width: 1200px) {
+    .hard-skills__flex {
+        flex-direction: row-reverse;
+    }
+}

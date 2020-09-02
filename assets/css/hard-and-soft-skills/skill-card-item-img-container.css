@@ -1,0 +1,11 @@
+.skill-card-item__img-container {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.skill-card-item__img {
+    margin: 0 1rem;
+}

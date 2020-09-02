@@ -1,0 +1,5 @@
+.social-media-container {
+    flex-direction: row!important;
+    justify-self: flex-end;
+    align-items: flex-start;
+}

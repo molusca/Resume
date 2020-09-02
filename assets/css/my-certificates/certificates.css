@@ -1,0 +1,14 @@
+#certificates {
+    background: #212133;
+    padding: 3rem 0;
+}
+
+.accordion {
+    padding: 2.5rem 0;
+}
+
+@media screen and (min-width: 900px) {
+    .accordion {
+        padding: .25rem 0;
+    }
+}

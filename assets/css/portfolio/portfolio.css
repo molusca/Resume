@@ -1,0 +1,15 @@
+#portfolio {
+    padding: 3rem 0;
+    background: #f5f6fa;
+}
+
+.portfolio-container {
+    padding: 3rem 0;
+}
+
+@media screen and (min-width: 900px) {
+    #portfolio {
+        padding: 1.5rem 0;
+        background: #f5f6fa;
+    }
+}

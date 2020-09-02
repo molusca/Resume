@@ -1,0 +1,7 @@
+.book-icon {
+    display: inline-block;
+    margin-right: .5rem;
+    width: 15px;
+    height: 15px;
+    background: url('https://api.iconify.design/octicon-repo.svg') no-repeat center center / contain;
+}

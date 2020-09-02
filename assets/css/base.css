@@ -1,0 +1,73 @@
+
+/* .fonts {
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
+} */
+
+html {
+    font-size: 14px;
+}
+
+.final-bracket,
+.section-title {
+    color: #0ea36a;
+    font-family: 'Roboto Mono', monospace;
+    text-transform: uppercase;
+}
+
+.section-title {
+    display: inline-block;
+    text-align: left;
+    padding: 1.25rem 0;
+}
+
+.final-bracket {
+    margin-bottom: 0!important;
+    text-align: right;
+    padding-top: 1.25rem!important;
+}
+
+.card-link {
+    font-family: 'Roboto', sans-serif;
+    margin-left: .5rem;
+    color: gray;
+}
+
+.card-link + .card-link {
+    margin-left: .5rem!important;
+}
+
+.btn {
+    white-space: initial!important;
+}
+
+.card {
+    border: none!important;
+}
+
+.btn-link:hover {
+    text-decoration: none!important;
+}
+
+.flex-avatar-description {
+    color: #7800ff;
+}
+
+.skill-card-item__img {
+    width: 35px;
+    height: 35px;
+}
+
+@media (min-width: 900px) {
+    .section-title {
+        text-align: left;
+        padding-top: 0;  
+    }
+
+    .container {
+        max-width: 960px;
+        margin-left: 1em;
+    }
+}
+

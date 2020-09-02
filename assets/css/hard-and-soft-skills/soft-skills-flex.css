@@ -1,0 +1,9 @@
+.soft-skills__flex {
+    padding-top: 0!important;
+}
+
+@media (min-width: 1200px) {
+    .soft-skills__flex {
+        flex-direction: row;
+    }
+}

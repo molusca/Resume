@@ -1,0 +1,12 @@
+.skills-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 1200px) {
+    .skills-flex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

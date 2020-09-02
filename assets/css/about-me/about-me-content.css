@@ -1,0 +1,14 @@
+.about-me-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+@media (min-width: 900px) {
+    .about-me-content {
+        flex-direction: row;
+        justify-content: space-between;
+        width: 70%;
+        margin: 0 auto;
+    }
+}

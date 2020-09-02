@@ -1,0 +1,12 @@
+#about-me {
+    background: #212133;
+    padding: 4rem 0;
+    font-family: 'Roboto Mono', monospace;
+    color: #fafafa;
+}
+
+@media screen and (min-width: 900px) {
+    #about-me {
+        padding: 5rem 0;
+    }
+}

@@ -1,0 +1,15 @@
+.repo-card__title {
+    display: inline-block;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+}
+
+.repo-card__title a {
+    color: #7800ff;
+}
+
+.repo-card__title a:focus,
+.repo-card__title a:active,
+.repo-card__title a:hover {
+    color: #0ea36a;
+}

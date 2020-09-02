@@ -1,0 +1,14 @@
+.see-more-button {
+    background: transparent;
+    font-size: 2rem!important;
+    color: #fafafa!important;
+    margin: 0;
+    padding: 0!important;
+}
+
+#headingOne,
+#headingTwo,
+#headingThree,
+#headingFour {
+    background-color: #212133!important;
+}

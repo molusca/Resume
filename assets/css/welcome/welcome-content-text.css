@@ -1,0 +1,25 @@
+.welcome-content__text {
+    font-size: 1.2rem;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    align-self: center;
+    width: 70%;
+}
+
+
+@media screen and (min-width: 545px){
+  
+    .welcome-content__text {
+        max-width: 50%;
+    }
+
+}
+
+@media screen and (min-width: 995px){
+  
+    .welcome-content__text {
+        font-size: 1.5rem;
+    }
+
+}

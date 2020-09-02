@@ -1,0 +1,24 @@
+.about-me__description {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.about-me__description a {
+    color: #0ea36a;
+    text-decoration: none;
+}
+
+.about-me__description a:focus,
+.about-me__description a:active,
+.about-me__description a:hover {
+    color: #7800ff;
+    text-decoration: underline;
+}
+
+@media (min-width: 900px) {
+    .about-me__description p{
+        margin-left: 1rem;
+    }
+}

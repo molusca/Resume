@@ -1,0 +1,11 @@
+.about-me__avatar {
+    align-self: center;
+    text-align: center;
+    margin-bottom: 3rem; 
+}
+
+@media screen and (min-width: 900px) {
+    .about-me__avatar {
+        margin-bottom: 0; 
+    }
+}

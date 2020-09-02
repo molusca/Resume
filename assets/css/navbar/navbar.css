@@ -1,0 +1,22 @@
+.navbar {
+    padding: .5rem 2rem!important;
+    font-family: 'Roboto Mono', monospace;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+
+.media-logo {
+    width: 23px;
+    height: 23px;
+}
+
+.avatar {
+    width: 45px;
+    height: 45px;
+}
+
+@media screen and (min-width: 992px) {
+    .navbar {
+        padding: 1rem 11.5rem!important;
+    }
+}

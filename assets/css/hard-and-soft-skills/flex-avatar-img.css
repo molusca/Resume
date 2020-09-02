@@ -1,0 +1,11 @@
+.flex-avatar__img {
+    max-width: 300px;
+    margin: 2rem auto;
+}
+
+@media screen and (min-width: 992px) {
+    .flex-avatar__img {
+        width: 350px;
+        margin: 0rem 6rem 2rem 6rem;
+    }
+}
