@@ -1,6 +1,6 @@
 ﻿### Hello! Welcome to my Resume 👋
 
-[Read in Portuguese | Ler em Português](https://github.com/molusca/Front-End/blob/master/resume/README.pt.md)
+[Read in Portuguese | Ler em Português](README.pt.md)
 
 #### 🕵️‍♂️ About this project:
 At the beginning of the quarantine (03/2020) I decided to learn something new, and the programming touched me in a way that I could never imagine. I started to study and have accumulated a lot of cool learning background, but I needed a way to show it to the world

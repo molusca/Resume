@@ -1,6 +1,6 @@
 ﻿### Olá! Bem vindo ao meu Currículo 👋
 
-[Read in English | Ler em Inglês](https://github.com/molusca/Front-End/blob/master/resume/README.md)
+[Read in English | Ler em Inglês](README.md)
 
 #### 🕵️‍♂️ Sobre esse projeto:
 No início da quarentena (03/2020) resolvi aprender algo novo, e a programação me tocou de uma maneira que eu jamais poderia imaginar. Comecei a estudar e fui acumulando uma bagagem de aprendizado bem legal, mas precisava de uma maneira de mostrar isso ao mundo. 
